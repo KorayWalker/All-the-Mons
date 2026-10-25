@@ -159,7 +159,7 @@
 	quest.505799C894C771B2.quest_desc: [
 		"&5&lMekanism&r modundaki &9&lMetalurjik İnfüzer&r ve &d&lZenginleştirme Odası&r gibi bazı &5Makineler&r Yükseltilebilir. Ancak bazıları yükseltilemez, bunlar sadece &8Yükseltme&r Kartları alabilir. \n&6&lATM Geliştiricileri&r bunu gördü ve Oyuncuların 50 tane &9&lElektrolitik Ayırıcı&r yapmak yerine 1 Çoklu Blok yapabilmelerini istedi! \n\nAncak bu Çoklu Blokları Üretmek için önceki bir Çoklu Bloğa ihtiyacımız olacak. &c&lOtomatik Hephaestus Ocağı&r. \n\nOnun kendi Görevi &aBölüm 4&r: &dYaratıcı&r bölümündedir. Oraya göz atın! \n\nTüm Çoklu Bloklar sadece farklı Denetleyicilerle aynı Yapıyı kullanır. İnşa etme Talimatlarını görmek için Sonraki Sayfaya bakın!"
 		"{@pagebreak}"
-		"İlk katman, tüm &cMakine Muhafazalarına&r ev sahipliği yapmasıyla en karmaşık olanıdır. Çeşitli &cMakine Muhafazaları&r ortada yer alırken etrafını &9Karanlık Taş Merdivenler &fve &9Bloklar&r ile &6Yaldızlı İşlenmiş Cilalı Karanlık Taş&r çevreler."
+		"İlk katman, tüm &cMakine Muhafazalarına&r ev sahipliği yapmasıyla en karmaşık olanıdır. Çeşitli &cMakine Muhafazaları&r ortada yer alırken etrafını &9Karanlık Taş Merdivenler &fve &9Bloklar&r ile &6Yaldızlı Yontulmuş Cilalı Karanlık Taş&r çevreler."
 		"{image:atm:textures/questpics/mek/mek_multi_runic1.png width:150 height:100 align:center}"
 		"İkinci katman, daha fazla &9Karanlık Taş Tuğlaları&r ve &9Merdivenler&r ile birincisini tamamlar. Artık &9Karanlık Taş Basamaklar&r ve &7Rün Bloklarını&r da içeriyor!"
 		"{image:atm:textures/questpics/mek/mek_multi_runic2.png width:150 height:100 align:center}"
@@ -167,7 +167,7 @@
 		"{image:atm:textures/questpics/mek/mek_multi_runic3.png width:150 height:100 align:center}"
 		"Haklıydım, bundan daha basiti olamaz. Tam olarak aynı basitlikte kalıyor! Önceki adımı tekrarlayın."
 		"{image:atm:textures/questpics/mek/mek_multi_runic4.png width:150 height:100 align:center}"
-		"Bitirmek için, &9Karanlık Taş Sütunların&r üzerine &bGizemli Kristal Bloklar&r ve üzeri açık olan &7Rün Bloğunun&r üzerine bir &8Kuantum Enjektörü&r yerleştirin."
+		"Bitirmek için, &9Karanlık Taş Sütunların&r üzerine &bBüyülü Kristal Blokları&r ve üzeri açık olan &7Rün Bloğunun&r üzerine bir &8Kuantum Enjektörü&r yerleştirin."
 		"{image:atm:textures/questpics/mek/mek_multi_runic5.png width:150 height:100 align:center}"
 		"&5&lÇoklu Blok Makinelerimizin&r çalışması için Kapaklara ihtiyacı olacaktır! Bunları eklemek için ilk katmandaki &9Karanlık Taş Tuğlalarını&r Kapaklarla değiştirin."
 	]
